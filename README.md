@@ -1,5 +1,5 @@
 # Smart-Flood-Management-System-using-IoT-and-Drone-
-This project is submitted for a high school level hackathon under the project name **Say Something**.
+This project is submitted for a high school level hackathon under the project name **Sei All-Star Hack**.
 
 ## Team Members:
 - Priti Das Dipa (Leader)
